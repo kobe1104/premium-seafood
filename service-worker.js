@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/premium-seafood/precache-manifest.2938008df98e94cde6d6c7296375f69f.js"
+  "/premium-seafood/precache-manifest.62c9d88c5e9885a153e3dd7c0426ec21.js"
 );
 
 self.addEventListener('message', (event) => {
