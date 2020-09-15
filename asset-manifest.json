@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/premium-seafood/static/js/main.d1ae9d49.chunk.js",
+    "main.js.map": "/premium-seafood/static/js/main.d1ae9d49.chunk.js.map",
+    "runtime-main.js": "/premium-seafood/static/js/runtime-main.eba666ec.js",
+    "runtime-main.js.map": "/premium-seafood/static/js/runtime-main.eba666ec.js.map",
+    "static/js/2.81ed8b89.chunk.js": "/premium-seafood/static/js/2.81ed8b89.chunk.js",
+    "static/js/2.81ed8b89.chunk.js.map": "/premium-seafood/static/js/2.81ed8b89.chunk.js.map",
+    "index.html": "/premium-seafood/index.html",
+    "precache-manifest.2938008df98e94cde6d6c7296375f69f.js": "/premium-seafood/precache-manifest.2938008df98e94cde6d6c7296375f69f.js",
+    "service-worker.js": "/premium-seafood/service-worker.js",
+    "static/js/2.81ed8b89.chunk.js.LICENSE.txt": "/premium-seafood/static/js/2.81ed8b89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba666ec.js",
+    "static/js/2.81ed8b89.chunk.js",
+    "static/js/main.d1ae9d49.chunk.js"
+  ]
+}
